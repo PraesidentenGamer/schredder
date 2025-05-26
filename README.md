@@ -4,7 +4,8 @@ Ein sicheres, leistungsstarkes Werkzeug zur **unwiederbringlichen Vernichtung vo
 
 ## 👤 Entwickler
 
-**Autor**: [Codemajorx] <https://github.com/PraesidentenGamer>  
+**Autor**: [Codemajorx] [https://github.com/PraesidentenGamer](https://github.com/PraesidentenGamer)
+  
 **E-Mail**: codemajorx@gmail.com  
 **Jahr**: 2025  
 **Projektstatus**: Aktiv
