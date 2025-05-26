@@ -54,7 +54,8 @@ A safe, powerful tool for ** irretrievable annihilation of files ** - developed 
 
 ## 👤 Developer
 
-** Author **: [Codemajorx] <https://github.com/PraesidentenGamer>
+** Author **: [Codemajorx] [https://github.com/PraesidentenGamer](https://github.com/PraesidentenGamer)
+
 ** E-Mail **: codemajorx@gmail.com  
 ** year **: 2025  
 ** Project status **: Active
